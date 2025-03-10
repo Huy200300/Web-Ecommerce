@@ -1,0 +1,7 @@
+{
+  "vnp_TmnCode": "E6T6NFR7",
+  "vnp_HashSecret": "XB50DLMKPX3CQH94GV6FRSNIX4KK240H",
+  "vnp_Url": " https://sandbox.vnpayment.vn/paymentv2/vpcpay.html",
+  "vnp_Api": "https://sandbox.vnpayment.vn/merchant_webapi/api/transaction",
+  "vnp_ReturnUrl": "PLACEHOLDER_BACKEND_DOMAIN/api/vnpay_return"
+}
